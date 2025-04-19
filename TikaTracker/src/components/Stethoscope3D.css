@@ -1,0 +1,19 @@
+.stetho-tilt {
+    width: 160px;
+    margin-top: 40px;
+  }
+  
+  .stetho-wrapper {
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    /* box-shadow: 0 0 30px rgba(0, 255, 255, 0.1); */
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .stetho-svg {
+    width: 100%;
+    height: auto;
+  }
+  
